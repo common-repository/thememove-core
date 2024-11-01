@@ -1,0 +1,41 @@
+.tmc-box--support {
+
+	.tmc-box__body {
+		padding: 40px;
+	}
+
+	.tmc-box__bg-image {
+		background-image: url(../images/box-bg-images.png);
+		background-position: top left;
+		background-repeat: no-repeat;
+		height: 187px;
+		position: absolute;
+		right: 0;
+		top: 0;
+		width: 200px;
+	}
+
+	td {
+		color: #878787;
+		padding-bottom: 25px;
+		padding-right: 15px;
+	}
+
+	i,
+	.svg-inline--fa {
+		color: #dcdcdc;
+		font-size: 46px;
+	}
+
+	a {
+		color: #363636;
+		display: block;
+		font-weight: 700;
+		margin-bottom: 5px;
+		width: auto;
+	}
+
+	p {
+		margin: 0;
+	}
+}

@@ -1,0 +1,1134 @@
+# Copyright (C) 2019 thememove-core
+# This file is distributed under the same license as the thememove-core package.
+msgid ""
+msgstr ""
+"Project-Id-Version: thememove-core\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Anh Hoang Nguyen <hoangkianh31592@gmail.com>\n"
+"Report-Msgid-Bugs-To: hoangkianh31592@gmail.com\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/thememove-core/thememove-core.php:50
+msgid "ThemeMove Core requires PHP version 5.6 or greater."
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-child-theme-generator.php:56, src/thememove-core/inc/class-thememove-core.php:288, src/thememove-core/inc/class-thememove-exporter.php:259, src/thememove-core/inc/class-thememove-exporter.php:273, src/thememove-core/inc/class-thememove-exporter.php:363, src/thememove-core/inc/class-thememove-exporter.php:379, src/thememove-core/inc/class-thememove-exporter.php:404, src/thememove-core/inc/class-thememove-exporter.php:433, src/thememove-core/inc/class-thememove-exporter.php:490, src/thememove-core/inc/class-thememove-exporter.php:739, src/thememove-core/inc/class-thememove-exporter.php:813, src/thememove-core/inc/class-thememove-exporter.php:842, src/thememove-core/inc/class-thememove-exporter.php:885, src/thememove-core/inc/class-thememove-importer.php:383, src/thememove-core/inc/class-thememove-plugins.php:153, src/thememove-core/inc/class-thememove-system-info.php:281, src/thememove-core/inc/class-thememove-updater.php:277
+msgid "Invalid nonce"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-child-theme-generator.php:59, src/thememove-core/views/box-child-theme.php:60
+msgid " Child"
+msgstr ""
+
+#. translators: %s: Child theme name.
+#: src/thememove-core/inc/class-thememove-child-theme-generator.php:107
+msgid "Error: Could not create directory %s. It already exists."
+msgstr ""
+
+#. translators: %s: Child theme name.
+#: src/thememove-core/inc/class-thememove-child-theme-generator.php:113
+msgid "Error: Could not create directory %s. This folder is read-only."
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-child-theme-generator.php:118
+msgid "Error: Could not write style.css, permission denined."
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-child-theme-generator.php:123
+msgid "Error: Could not write functions.php, permission denined."
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-child-theme-generator.php:128
+msgid "Error: Could not create screenshot.png, permission denined."
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-child-theme-generator.php:134
+msgid "Error: Could not copy theme mods, please try again."
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-child-theme-generator.php:173
+msgid "Write here your own personal stylesheet"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-child-theme-generator.php:197
+msgid "This file is part of "
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-child-theme-generator.php:199
+msgid "All functions of this file will be loaded before of parent theme functions."
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-child-theme-generator.php:200
+msgid "Learn more at "
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-child-theme-generator.php:201
+msgid "Note: this function loads the parent stylesheet before, then child theme stylesheet"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-child-theme-generator.php:202
+msgid "(leave it in place unless you know what you are doing.)"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-child-theme-generator.php:215
+msgid "Write here your own functions"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-content-importer.php:155
+msgid "New AJAX call!"
+msgstr ""
+
+#. translators: %s: The number of update
+#: src/thememove-core/inc/class-thememove-core.php:137
+msgid "<span class=\"update-plugins\"><span class=\"plugin-count\">%s</span></span>"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-core.php:138
+msgid "ThemeMove "
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-core.php:138, src/thememove-core/inc/class-thememove-core.php:142
+msgid "ThemeMove"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-core.php:139
+msgid "Update "
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-core.php:139, src/thememove-core/views/box-update-big.php:35, src/thememove-core/views/box-update.php:19, src/thememove-core/views/box-update.php:69
+msgid "Update"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-core.php:151
+msgid "Welcome - ThemeMove Core"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-core.php:151
+msgid "Welcome"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-core.php:152
+msgid "Update - ThemeMove Core"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-core.php:153
+msgid "Import Demo Data - ThemeMove Core"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-core.php:153, src/thememove-core/views/box-import-demos.php:39
+msgid "Import Demo Data"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-core.php:154
+msgid "Tools - ThemeMove Core"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-core.php:154
+msgid "Tools"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-core.php:177
+msgid "Child Theme Generator"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-core.php:178
+msgid "System Info"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-core.php:179, src/thememove-core/views/box-export.php:55, src/thememove-core/views/box-export.php:57
+msgid "Export"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-exporter.php:84
+msgid "Content"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-exporter.php:87
+msgid "Create an XML file containing your posts, pages, comments, custom fields, categories, and tags"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-exporter.php:90, src/thememove-core/inc/class-thememove-importer.php:328
+msgid "Widgets"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-exporter.php:93
+msgid "Create a text file containing your widgets"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-exporter.php:96, src/thememove-core/inc/class-thememove-importer.php:333
+msgid "Customizer Settings"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-exporter.php:99
+msgid "Create a text file containing your customizer settings (in Appearance > Customize)"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-exporter.php:102, src/thememove-core/inc/class-thememove-importer.php:338
+msgid "Menus"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-exporter.php:105
+msgid "Create a text file containing your menus"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-exporter.php:108, src/thememove-core/inc/class-thememove-importer.php:343
+msgid "Page Options"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-exporter.php:111
+msgid "Create a text file containing the Homepage & Post Page settings"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-exporter.php:117
+msgid "Media Package"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-exporter.php:122
+msgid "Create a zip package containing all files in the wp-content/uploads directory"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-exporter.php:128
+msgid "Placeholder Images"
+msgstr ""
+
+#. translators: %s: Placeholder skip prefix.
+#: src/thememove-core/inc/class-thememove-exporter.php:134
+msgid "Create a zip package containing all images that have been generated at placeholder.com and all other media files in the wp-content/uploads directory. NOTE: You can skip generating placeholder by adding the prefix %1$s in the file name, eg. %2$slogo.jpg. It will take a long time to create placeholder images."
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-exporter.php:141
+msgid "WooCommerce"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-exporter.php:144
+msgid "Create a text file containing all WooCommerce settings in Appearance > Customize > WooCommerce"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-exporter.php:150, src/thememove-core/inc/class-thememove-importer.php:353
+msgid "Essential Grid"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-exporter.php:161
+msgid "Create a text file containing all Essential Grid settings"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-exporter.php:167
+msgid "Slider Revolution"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-exporter.php:170
+msgid "Create a text file containing data of Slider Revolution plugin"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-exporter.php:176, src/thememove-core/inc/class-thememove-importer.php:365
+msgid "Elementor Settings"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-exporter.php:179
+msgid "Create a text file containing all settings of Elementor plugin"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-exporter.php:185, src/thememove-core/inc/class-thememove-importer.php:369
+msgid "Instagram Feed Widgets"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-exporter.php:188
+msgid "Create a text file containing all Insgatram Feed Widgets"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-exporter.php:444, src/thememove-core/inc/class-thememove-exporter.php:505
+msgid "Could not write files into 'wp-content' directory, permission denined."
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-exporter.php:451
+msgid "Could not create the media package, please try again."
+msgstr ""
+
+#. translators: $s: Archive file name.
+#. translators: $s: Archive file name.
+#: src/thememove-core/inc/class-thememove-exporter.php:472, src/thememove-core/inc/class-thememove-exporter.php:543
+msgid "Could not read file %s."
+msgstr ""
+
+#. translators: $s: Archive file name.
+#. translators: $s: Archive file name.
+#: src/thememove-core/inc/class-thememove-exporter.php:480, src/thememove-core/inc/class-thememove-exporter.php:557
+msgid "The file %s does not exists."
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-exporter.php:512
+msgid "Could not create the placholder images directory, please try again."
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-exporter.php:522
+msgid "Could not create the placeholder media package, please try again."
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-exporter.php:573
+msgid "Could not create zip file. The extension 'ZipArchive' is not enabled."
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-exporter.php:743
+msgid "Could not export WooCommerce settings. The plugin 'WooCommerce' is not installed."
+msgstr ""
+
+#. translators: %s: WooCommerce Version.
+#: src/thememove-core/inc/class-thememove-exporter.php:747
+msgid "Could not export WooCommerce settings. ThemeMove Core requires at least WooCommerce 3.3.0. You are using version %s"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-exporter.php:755
+msgid "This is a demo store for testing purposes — no orders shall be fulfilled."
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-exporter.php:778
+msgid "Your personal data will be used to process your order, support your experience throughout this website, and for other purposes described in our [privacy_policy]."
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-exporter.php:779
+msgid "I have read and agree to the website [terms]"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-exporter.php:817
+msgid "Could not export Slider Revolution settings. The plugin 'Slider Revolution' is not installed."
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-exporter.php:846, src/thememove-core/inc/class-thememove-importer.php:1718
+msgid "Could not export Elementor settings. The plugin 'Elementor' is not installed."
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-exporter.php:889
+msgid "Could not export Instagram Feed widgets. The plugin 'Elfsight Instagram Feed' is not installed."
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-import-logger.php:121
+msgid "ThemeMove Core Importer - "
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-import-logger.php:144
+msgid "Your WordPress login credentials don't allow to use WP_Filesystem!"
+msgstr ""
+
+#. translators: %1$s: <br> tag, %2$s: File path.
+#: src/thememove-core/inc/class-thememove-import-logger.php:164
+msgid "An error occurred while writing file to your server! Tried to write a file to: %1$s%2$s."
+msgstr ""
+
+#. translators: %s Link to welcome page
+#: src/thememove-core/inc/class-thememove-importer.php:151
+msgid "Please <a href=\"%s\" target=\"_blank\">renew your license key</a> to import demo data."
+msgstr ""
+
+#. translators: %s Link to welcome page
+#: src/thememove-core/inc/class-thememove-importer.php:157
+msgid "Please <a href=\"%s\">enter your license key</a> to import demo data."
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-importer.php:166
+msgid "Your server does not have cURL."
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-importer.php:170
+msgid "Your server does not have DOMDocument."
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-importer.php:174
+msgid "Your server does not have fsockopen."
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-importer.php:178
+msgid "Your server does not have XMLReader extension."
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-importer.php:182
+msgid "Your server does not have ZipArchive extension."
+msgstr ""
+
+#. translators: %1$s: max_execution_time, %2$s: Link to article.
+#: src/thememove-core/inc/class-thememove-importer.php:190
+msgid ""
+"The PHP max execution time currently is %1$s. We recommend setting PHP max execution time to at least 300. Please read <a href=\"%2$s\" target=\"_blank\">this article</a>.\n"
+"					<p/>If you are on shared hosting you can try adding following this line to wp-config.php: <pre>set_time_limit(300);</pre>above the line: <pre>/* That's all, stop editing! Happy blogging. */</pre></p>\n"
+"					<p>If you are unsure of how to make these changes, you should contact your hosting provider and ask them to increase your maximum execution time.</p>"
+msgstr ""
+
+#. translators: %1$s Plugin name list, %2$s Install Plugins page URL.
+#: src/thememove-core/inc/class-thememove-importer.php:222
+msgid "A required plugin: <strong>%1$s</strong> is not installed. <a href=\"%2$s\">Install it</a>."
+msgid_plural "Some required plugins: <strong>%1$s</strong> is not installed. <a href=\"%2$s\">Install these plugins</a>."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %1$s Plugin name list, %2$s Install Plugins page URL.
+#: src/thememove-core/inc/class-thememove-importer.php:244
+msgid "A required plugin: <strong>%1$s</strong> is installed but not activated. <a href=\"%2$s\">Activate it</a>."
+msgid_plural "Some required plugins: <strong>%1$s</strong> is installed but not activated. <a href=\"%2$s\">Activate these plugins</a>."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %s: WooCommerce Version.
+#: src/thememove-core/inc/class-thememove-importer.php:266
+msgid "ThemeMove Core requires at least WooCommerce 3.3.0. You are using version %s"
+msgstr ""
+
+#. translators: %s: Import directory.
+#: src/thememove-core/inc/class-thememove-importer.php:308
+msgid "The directory %s/ does not exist."
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-importer.php:313
+msgid "Media Package (on local)"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-importer.php:315
+msgid "Media Package (on cloud)"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-importer.php:320
+msgid "Content (posts, pages, custom post types, categories, comments, etc..)"
+msgstr ""
+
+#. translators: %s: content.xml.
+#: src/thememove-core/inc/class-thememove-importer.php:323
+msgid "The file %s does not exist."
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-importer.php:348
+msgid "WooCommerce Settings"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-importer.php:359
+msgid "Revolution Slider"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-importer.php:389
+msgid "Demo slug is not defined."
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-importer.php:428
+msgid "No import steps found."
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-importer.php:431
+msgid "Please select at least 1 item to continue."
+msgstr ""
+
+#. translators: %s: wp-content directory.
+#. translators: %s: wp-content directory.
+#: src/thememove-core/inc/class-thememove-importer.php:477, src/thememove-core/inc/class-thememove-importer.php:547
+msgid "Could not write files into %s directory. Permission denied."
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-importer.php:484
+msgid "Could not download the media package. The URL is not defined."
+msgstr ""
+
+#. translators: %s: Path to media package.
+#: src/thememove-core/inc/class-thememove-importer.php:501
+msgid "Could not create %s directory. It already exists but ThemeMove Core cannot delete it because of permission denied."
+msgstr ""
+
+#. translators: %s: Path to media package.
+#: src/thememove-core/inc/class-thememove-importer.php:510
+msgid "Could not unzip the media package: %s."
+msgstr ""
+
+#. translators: %s: Path to media package.
+#: src/thememove-core/inc/class-thememove-importer.php:516
+msgid "Could not create %s directory."
+msgstr ""
+
+#. translators: %1$s: Error code, %3$s: Error message, %2$s: Direct link of the media package.
+#: src/thememove-core/inc/class-thememove-importer.php:522
+msgid "ERROR %1$s: Could not download the media package. %2$s. Please try to download it from <a href=\"%3$s\" target=\"_blank\">here</a> and try to import manually."
+msgstr ""
+
+#. translators: %s: Media package path.
+#: src/thememove-core/inc/class-thememove-importer.php:561
+msgid "Could not found this directory: %s."
+msgstr ""
+
+#. translators: %s: Media package path.
+#: src/thememove-core/inc/class-thememove-importer.php:566
+msgid "%s is not a directory."
+msgstr ""
+
+#. translators: %s: File name.
+#: src/thememove-core/inc/class-thememove-importer.php:782
+msgid "The %s file does not exist."
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-importer.php:808
+msgid "The demo import successfully finished"
+msgstr ""
+
+#. translators: %s: Log file url.
+#: src/thememove-core/inc/class-thememove-importer.php:821
+msgid "The demo import has finished, but there were some import errors. <br/>More details about the errors can be found in this <a href=\"%s\" target=\"_blank\">log file</a>."
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-importer.php:858
+msgid "The content.xml file does not exist."
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-importer.php:877
+msgid "Importing content"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-importer.php:962, src/thememove-core/inc/class-thememove-importer.php:982, src/thememove-core/inc/class-thememove-importer.php:987
+msgid "Importing widgets"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-importer.php:1027, src/thememove-core/inc/class-thememove-importer.php:1032
+msgid "Error: Customizer import data could not be read. Please try a different file."
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-importer.php:1029, src/thememove-core/inc/class-thememove-importer.php:1048, src/thememove-core/inc/class-thememove-importer.php:1068
+msgid "Importing customizer options"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-importer.php:1042, src/thememove-core/inc/class-thememove-importer.php:1133, src/thememove-core/inc/class-thememove-importer.php:1213, src/thememove-core/inc/class-thememove-importer.php:1223, src/thememove-core/inc/class-thememove-importer.php:1233, src/thememove-core/inc/class-thememove-importer.php:1235, src/thememove-core/inc/class-thememove-importer.php:1341, src/thememove-core/inc/class-thememove-importer.php:1348, src/thememove-core/inc/class-thememove-importer.php:1679, src/thememove-core/inc/class-thememove-importer.php:1761
+msgid " - Imported"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-importer.php:1108, src/thememove-core/inc/class-thememove-importer.php:1113
+msgid "Error: Menu import data could not be read. Please try a different file."
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-importer.php:1110, src/thememove-core/inc/class-thememove-importer.php:1141, src/thememove-core/inc/class-thememove-importer.php:1161
+msgid "Importing menu"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-importer.php:1201, src/thememove-core/inc/class-thememove-importer.php:1206
+msgid "Error: Page options import data could not be read. Please try a different file."
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-importer.php:1203, src/thememove-core/inc/class-thememove-importer.php:1248, src/thememove-core/inc/class-thememove-importer.php:1268
+msgid "Importing page options"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-importer.php:1215, src/thememove-core/inc/class-thememove-importer.php:1225, src/thememove-core/inc/class-thememove-importer.php:1343, src/thememove-core/inc/class-thememove-importer.php:1350, src/thememove-core/inc/class-thememove-importer.php:1763
+msgid " - Skipped"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-importer.php:1281
+msgid "Could not import WooCommerce settings. The plugin 'WooCommerce' is not installed."
+msgstr ""
+
+#. translators: %s: WooCommerce Version.
+#: src/thememove-core/inc/class-thememove-importer.php:1285
+msgid "Could not import WooCommerce settings. ThemeMove Core requires at least WooCommerce 3.3.0. You are using version %s"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-importer.php:1317, src/thememove-core/inc/class-thememove-importer.php:1322
+msgid "Error: WooCommerce settings import data could not be read. Please try a different file."
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-importer.php:1319, src/thememove-core/inc/class-thememove-importer.php:1358, src/thememove-core/inc/class-thememove-importer.php:1378
+msgid "Importing WooCommerce settings"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-importer.php:1391
+msgid "Could not import Essential_Grid data. The plugin 'Essential Grid' is not installed."
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-importer.php:1424, src/thememove-core/inc/class-thememove-importer.php:1429
+msgid "Error: Essential Grid import data could not be read. Please try a different file."
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-importer.php:1426, src/thememove-core/inc/class-thememove-importer.php:1595, src/thememove-core/inc/class-thememove-importer.php:1615
+msgid "Importing Essential Grid"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-importer.php:1500
+msgid "Skins - Imported"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-importer.php:1502
+msgid "Skins - Skipped"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-importer.php:1509
+msgid "Navigation Skins - Imported"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-importer.php:1511
+msgid "Navigation Skins - Skipped"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-importer.php:1518
+msgid "Grids - Imported"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-importer.php:1520
+msgid "Grids - Skipped"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-importer.php:1527
+msgid "Elements - Imported"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-importer.php:1529
+msgid "Elements - Skipped"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-importer.php:1536
+msgid "Custom Meta - Imported"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-importer.php:1538
+msgid "Custom Meta - Skipped"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-importer.php:1545
+msgid "Punch Fonts - Imported"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-importer.php:1547
+msgid "Punch Fonts - Skipped"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-importer.php:1560
+msgid "Global CSS - Imported"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-importer.php:1562
+msgid "Global CSS - Skipped"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-importer.php:1628
+msgid "Could not import Slider Revolution data. The plugin 'Slider Revolution' is not installed."
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-importer.php:1664, src/thememove-core/inc/class-thememove-importer.php:1837
+msgid "Success!"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-importer.php:1667, src/thememove-core/inc/class-thememove-importer.php:1690
+msgid "Importing Revolution Slider"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-importer.php:1681
+msgid " - Failed"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-importer.php:1749, src/thememove-core/inc/class-thememove-importer.php:1754
+msgid "Error: Elementor settings import data could not be read. Please try a different file."
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-importer.php:1751, src/thememove-core/inc/class-thememove-importer.php:1770, src/thememove-core/inc/class-thememove-importer.php:1790
+msgid "Importing Elementor settings"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-importer.php:1803
+msgid "Could not import Instagram Feed widgets. The plugin 'Elfsight Instagram Feed' is not installed."
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-importer.php:1842, src/thememove-core/inc/class-thememove-importer.php:1862
+msgid "Importing Instagram Feed widgets"
+msgstr ""
+
+#. translators: %1$s: Expires date, %2$s: Renew URL
+#: src/thememove-core/inc/class-thememove-license.php:72
+msgid "Your license key expired on %1$s. You should renew it <a href=\"%2$s\" target=\"_blank\">here</a>."
+msgstr ""
+
+#. translators: %s: Support link
+#: src/thememove-core/inc/class-thememove-license.php:80
+msgid "Your license key has been disabled. Please <a href=\"%s\" target=\"_blank\">contact us</a> to solve this issue."
+msgstr ""
+
+#. translators: %s: Theme name
+#: src/thememove-core/inc/class-thememove-license.php:86
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#. translators: %s: Support link
+#: src/thememove-core/inc/class-thememove-license.php:91
+msgid "Your license key has reached its activation limit. Manage your licensed sites <a href=\"%s\" target=\"_blank\">here</a>."
+msgstr ""
+
+#. translators: %s: Licenses page URL
+#. translators: %s: Licenses page URL.
+#: src/thememove-core/inc/class-thememove-license.php:100, src/thememove-core/views/box-license.php:92
+msgid "Wrong license key. Please find your license key in <a href=\"%s\" target=\"_blank\">Licenses page</a> and try again."
+msgstr ""
+
+#. translators: %1$s: Install plugin URL, %2$s: Plugin name
+#: src/thememove-core/inc/class-thememove-plugins.php:67
+msgid "<a href=\"%1$s\" title=\"Install %2$s\">Install</a>"
+msgstr ""
+
+#. translators: %1$s: Active plugin URL, %2$s: Plugin name
+#: src/thememove-core/inc/class-thememove-plugins.php:88
+msgid "<a href=\"%1$s\" title=\"Update %2$s\">Update</a>"
+msgstr ""
+
+#. translators: %1$s: #, %2$s: Plugin name,%3$s: Plugin slug, %4$s: Download URL, %5$s: Nonce
+#: src/thememove-core/inc/class-thememove-plugins.php:107
+msgid "<a href=\"%1$s\" title=\"Activate %2$s\" data-slug=\"%3$s\" data-source=\"%4$s\" data-plugin-action=\"activate-plugin\" data-nonce=\"%5$s\" class=\"tmc-plugin-link tmc-plugin-link--activate\">Activate</a>"
+msgstr ""
+
+#. translators: %1$s: #, %2$s: Plugin name,%3$s: Plugin slug, %4$s: Download URL, %5$s: Nonce
+#: src/thememove-core/inc/class-thememove-plugins.php:118
+msgid "<a href=\"%1$s\" title=\"Deactivate %2$s\" data-slug=\"%3$s\" data-source=\"%4$s\" data-plugin-action=\"deactivate-plugin\" data-nonce=\"%5$s\" class=\"tmc-plugin-link tmc-plugin-link--deactivate\">Deactivate</a>"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-plugins.php:144
+msgid "TGM_Plugin_Activation does not exist"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-plugins.php:167
+msgid "Installation package not available."
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-updater.php:281
+msgid "The extension ZipArchive is not enabled."
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-widgets-importer.php:75
+msgid "Error: Widget import data could not be read. Please try a different file."
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-widgets-importer.php:109
+msgid "Sidebar does not exist in theme (moving widget to Inactive)"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-widgets-importer.php:130
+msgid "Site does not support widget"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-widgets-importer.php:149
+msgid "Widget already exists"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-widgets-importer.php:194
+msgid "Imported"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-widgets-importer.php:197
+msgid "Imported to Inactive"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-widgets-importer.php:203
+msgid "No Title"
+msgstr ""
+
+#: src/thememove-core/inc/class-thememove-widgets-importer.php:219
+msgid "No results for widget import!"
+msgstr ""
+
+#: src/thememove-core/views/box-changelog.php:19, src/thememove-core/views/box-update.php:20
+msgid "Changelog"
+msgstr ""
+
+#. translators: %1$s URL to 'Themes' page, %2$: Theme Name
+#: src/thememove-core/views/box-child-theme.php:29
+msgid "This tool does not work with child themes. Please <a href=\"%1$s\">activate %2$s</a> to generate a new child theme."
+msgstr ""
+
+#: src/thememove-core/views/box-child-theme.php:47
+msgid "Create a child theme from the current theme."
+msgstr ""
+
+#. translators: %1$s Theme Name, %2$s: Theme Version
+#: src/thememove-core/views/box-child-theme.php:51
+msgid "Currrent Theme: %1$s - %2$s"
+msgstr ""
+
+#: src/thememove-core/views/box-child-theme.php:59
+msgid "Theme Name"
+msgstr ""
+
+#: src/thememove-core/views/box-child-theme.php:63
+msgid "Theme Description"
+msgstr ""
+
+#. translators: %s Theme name.
+#: src/thememove-core/views/box-child-theme.php:65
+msgid "A child theme of %s"
+msgstr ""
+
+#: src/thememove-core/views/box-child-theme.php:69
+msgid "Child Theme URL"
+msgstr ""
+
+#: src/thememove-core/views/box-child-theme.php:73
+msgid "Author"
+msgstr ""
+
+#: src/thememove-core/views/box-child-theme.php:77
+msgid "Author URL"
+msgstr ""
+
+#: src/thememove-core/views/box-child-theme.php:81, src/thememove-core/views/box-plugins.php:35
+msgid "Version"
+msgstr ""
+
+#: src/thememove-core/views/box-child-theme.php:88
+msgid "Copy Menus, Widgets and other Customizer Settings from the parent theme."
+msgstr ""
+
+#: src/thememove-core/views/box-child-theme.php:93
+msgid "Generate"
+msgstr ""
+
+#: src/thememove-core/views/box-import-demos.php:21
+msgid "Select a demo to import"
+msgstr ""
+
+#: src/thememove-core/views/box-import-demos.php:24, src/thememove-core/views/box-import.php:17
+msgid "Import Demo"
+msgstr ""
+
+#: src/thememove-core/views/box-import-demos.php:32, src/thememove-core/views/box-import-demos.php:80
+msgid "(has been imported before)"
+msgstr ""
+
+#: src/thememove-core/views/box-import-demos.php:88
+msgid "Import"
+msgstr ""
+
+#: src/thememove-core/views/box-import-issues.php:16
+msgid "Issues Detected"
+msgstr ""
+
+#: src/thememove-core/views/box-import-issues.php:43
+msgid "Please solve all issues listed above before importing demo data."
+msgstr ""
+
+#: src/thememove-core/views/box-import-notes.php:17
+msgid "Important Notes"
+msgstr ""
+
+#. translators: %s: WordPress Reset plugin URL
+#: src/thememove-core/views/box-import-notes.php:33
+msgid "No existing posts, pages, categories, images, widgets or any other data will be deleted or modifed, but we recommend installing demo data on a clean WordPress website to prevent conflicts with your current content.<br/>To reset your website before importing, use <a href=\"%s\" class=\"thickbox\" title=\"Install WordPress Reset\">WordPress Reset</a> plugin."
+msgstr ""
+
+#: src/thememove-core/views/box-import-notes.php:38
+msgid "<strong>All required plugins</strong> should be installed."
+msgstr ""
+
+#. translators: %s: Regenerate Thumbnails plugin URL
+#: src/thememove-core/views/box-import-notes.php:43
+msgid "After importing demo data, you should use <a href=\"%s\" class=\"thickbox\" title=\"Install Regenerate Thumbnails\">Regenerate Thumbnails</a> plugin."
+msgstr ""
+
+#: src/thememove-core/views/box-import-notes.php:49
+msgid "Posts, pages, images, widgets, menus and more data will get imported.<br/>Please click on the \"Import\" button only once and wait until the process is completed, it may take a while."
+msgstr ""
+
+#: src/thememove-core/views/box-import.php:28
+msgid "Our demo data import lets you have the whole data package in minutes, delivering all kinds of essential things quickly and simply. You may not have enough time for a coffee as the import is too fast!"
+msgstr ""
+
+#: src/thememove-core/views/box-import.php:29
+msgid "Notice: We recommend installing demo data on a clean WordPress website to prevent conflicts with your current content."
+msgstr ""
+
+#. translators: %s: WordPress Reset plugin URL
+#: src/thememove-core/views/box-import.php:34
+msgid "<br/>You can use the plugin <a href=\"%s\" class=\"thickbox\" title=\"Install WordPress Reset\">WordPress Reset</a> to reset your website before importing if needed."
+msgstr ""
+
+#: src/thememove-core/views/box-import.php:50
+msgid "Start Import Demo Data"
+msgstr ""
+
+#: src/thememove-core/views/box-license.php:16
+msgid "License Key"
+msgstr ""
+
+#: src/thememove-core/views/box-license.php:21
+msgid "License Key - Expired"
+msgstr ""
+
+#: src/thememove-core/views/box-license.php:40
+msgid "License Key:"
+msgstr ""
+
+#: src/thememove-core/views/box-license.php:47
+msgid "Product:"
+msgstr ""
+
+#: src/thememove-core/views/box-license.php:51
+msgid "Expiration Date:"
+msgstr ""
+
+#: src/thememove-core/views/box-license.php:54
+msgid "Lifetime"
+msgstr ""
+
+#: src/thememove-core/views/box-license.php:61
+msgid "Activations:"
+msgstr ""
+
+#: src/thememove-core/views/box-license.php:62
+msgid "Unlimited"
+msgstr ""
+
+#: src/thememove-core/views/box-license.php:65
+msgid "Customer Name:"
+msgstr ""
+
+#: src/thememove-core/views/box-license.php:69
+msgid "Customer Email"
+msgstr ""
+
+#: src/thememove-core/views/box-license.php:73
+msgid "Actions:"
+msgstr ""
+
+#: src/thememove-core/views/box-license.php:79
+msgid "Manage License on ThemeMove"
+msgstr ""
+
+#: src/thememove-core/views/box-license.php:82
+msgid "Renew"
+msgstr ""
+
+#: src/thememove-core/views/box-license.php:84
+msgid "Deactive"
+msgstr ""
+
+#: src/thememove-core/views/box-license.php:95
+msgid "Enter your license key"
+msgstr ""
+
+#: src/thememove-core/views/box-license.php:98
+msgid "Submit"
+msgstr ""
+
+#: src/thememove-core/views/box-license.php:102
+msgid "Show us your license key to get the automatic update."
+msgstr ""
+
+#: src/thememove-core/views/box-patches.php:18
+msgid "Patches"
+msgstr ""
+
+#: src/thememove-core/views/box-patches.php:19, src/thememove-core/views/box-update-big.php:17, src/thememove-core/views/box-update.php:21
+msgid "Refresh"
+msgstr ""
+
+#: src/thememove-core/views/box-patches.php:36
+msgid "Patch #"
+msgstr ""
+
+#: src/thememove-core/views/box-patches.php:37
+msgid "Description"
+msgstr ""
+
+#: src/thememove-core/views/box-patches.php:38
+msgid "Status"
+msgstr ""
+
+#: src/thememove-core/views/box-patches.php:63
+msgid "Reapply"
+msgstr ""
+
+#: src/thememove-core/views/box-patches.php:67
+msgid "Apply Patch"
+msgstr ""
+
+#: src/thememove-core/views/box-patches.php:75
+msgid "There is no patch for the current version."
+msgstr ""
+
+#. translators: %s Link to checkout cart
+#. translators: %s Link checkout cart
+#: src/thememove-core/views/box-patches.php:83, src/thememove-core/views/box-update-big.php:42
+msgid "Please <a href=\"%s\" target=\"_blank\">renew your license key</a> to update the theme."
+msgstr ""
+
+#. translators: %s Link to welcome page
+#. translators: %s Link to welcome page
+#: src/thememove-core/views/box-patches.php:89, src/thememove-core/views/box-update-big.php:48
+msgid "Please renew your license key to update the theme."
+msgstr ""
+
+#. translators: %s Link to welcome page
+#. translators: %s Link to welcome page
+#: src/thememove-core/views/box-patches.php:100, src/thememove-core/views/box-update-big.php:59
+msgid "Please <a href=\"%s\">enter your license key</a> to update the theme."
+msgstr ""
+
+#: src/thememove-core/views/box-plugins.php:19
+msgid "Install Plugins"
+msgstr ""
+
+#: src/thememove-core/views/box-plugins.php:34
+msgid "Plugin"
+msgstr ""
+
+#: src/thememove-core/views/box-plugins.php:36
+msgid "Type"
+msgstr ""
+
+#: src/thememove-core/views/box-plugins.php:37
+msgid "Action"
+msgstr ""
+
+#: src/thememove-core/views/box-plugins.php:65
+msgid "Required"
+msgstr ""
+
+#: src/thememove-core/views/box-plugins.php:65
+msgid "Recommended"
+msgstr ""
+
+#: src/thememove-core/views/box-plugins.php:72
+msgid "This theme doesn't require any plugins."
+msgstr ""
+
+#. translators: %s: Deactivated Plugin count
+#: src/thememove-core/views/box-plugins.php:88
+msgid "Please install and activate all required plugins (%s)"
+msgstr ""
+
+#: src/thememove-core/views/box-plugins.php:92
+msgid "All required plugins are activated. Now you can import the demo data."
+msgstr ""
+
+#: src/thememove-core/views/box-support.php:13
+msgid "Support"
+msgstr ""
+
+#: src/thememove-core/views/box-support.php:27
+msgid "Online Documentation"
+msgstr ""
+
+#: src/thememove-core/views/box-support.php:34, src/thememove-core/views/box-support.php:48
+msgid "FAQs"
+msgstr ""
+
+#: src/thememove-core/views/box-support.php:35
+msgid "Check it before you ask for support."
+msgstr ""
+
+#: src/thememove-core/views/box-support.php:41
+msgid "Human Support"
+msgstr ""
+
+#: src/thememove-core/views/box-support.php:42
+msgid "Our WordPress gurus'd love to help you to shot issues one by one."
+msgstr ""
+
+#: src/thememove-core/views/box-support.php:47
+msgid "Support Center"
+msgstr ""
+
+#: src/thememove-core/views/box-update-big.php:16
+msgid "Update Available"
+msgstr ""
+
+#. translators: %s Theme name
+#: src/thememove-core/views/box-update-big.php:30
+msgid "There is a new version of %s available."
+msgstr ""
+
+#: src/thememove-core/views/box-update.php:35
+msgid "Installed Version"
+msgstr ""
+
+#: src/thememove-core/views/box-update.php:42
+msgid "Latest Available Version"
+msgstr ""
+
+#: src/thememove-core/views/box-update.php:52
+msgid "The latest version of this theme is available,<br/>update today!"
+msgstr ""
+
+#: src/thememove-core/views/box-update.php:54
+msgid "Your theme is up to date!"
+msgstr ""
+
+#: src/thememove-core/views/box-update.php:62
+msgid "You do not have permission<br/> to update the theme."
+msgstr ""
+
+#: src/thememove-core/views/box-update.php:71
+msgid "Please renew your license key<br/> to update the theme."
+msgstr ""
+
+#: src/thememove-core/views/box-update.php:73
+msgid "Please enter your license key<br/> to update the theme."
+msgstr ""
+
+#. translators: %1$s: Theme Name, %2$s: Theme Version.
+#: src/thememove-core/views/header.php:29
+msgid "Welcome to %1$s <span>%2$s</span>"
+msgstr ""
+
+#: src/thememove-core/views/header.php:50
+msgid "Ooops!"
+msgstr ""
+
+#: src/thememove-core/views/header.php:53
+msgid "Seems the current theme not compatible with ThemeMove Core."
+msgstr ""
+
+#: src/thememove-core/views/popup-copy-images-form.php:14
+msgid "Copy images"
+msgstr ""
+
+#: src/thememove-core/views/popup-copy-images-form.php:25, src/thememove-core/views/popup-download-form.php:29, src/thememove-core/views/popup-import-content-form.php:33
+msgid "Please do not close this window until the process is completed"
+msgstr ""
+
+#: src/thememove-core/views/popup-copy-images-form.php:26, src/thememove-core/views/popup-download-form.php:30, src/thememove-core/views/popup-import-content-form.php:34, src/thememove-core/views/popup-success.php:30
+msgid "Close"
+msgstr ""
+
+#: src/thememove-core/views/popup-demo-steps-form.php:14
+msgid "Choose what to import"
+msgstr ""
+
+#: src/thememove-core/views/popup-demo-steps-form.php:25
+msgid "All"
+msgstr ""
+
+#: src/thememove-core/views/popup-demo-steps-form.php:45
+msgid "Cancel"
+msgstr ""
+
+#: src/thememove-core/views/popup-demo-steps-form.php:46
+msgid "Continue"
+msgstr ""
+
+#: src/thememove-core/views/popup-download-form.php:14
+msgid "Download media package"
+msgstr ""
+
+#: src/thememove-core/views/popup-download-form.php:17
+msgid "Initializing"
+msgstr ""
+
+#: src/thememove-core/views/popup-import-content-form.php:14
+msgid "Import data"
+msgstr ""
+
+#: src/thememove-core/views/popup-success.php:15
+msgid "All done!"
+msgstr ""
+
+#: src/thememove-core/views/popup-success.php:16
+msgid "Import is successful! Now customization is as easy as pie. Enjoy it!"
+msgstr ""
+
+#. translators: %s: Regenerate Thumbnails plugin URL
+#: src/thememove-core/views/popup-success.php:22
+msgid "You should use <a href=\"%s\" class=\"thickbox\" title=\"Install Regenerate Thumbnails\">Regenerate Thumbnails</a> plugin to regenerate all thumbnail sizes to make sure that everything works fine."
+msgstr ""
+
+#: src/thememove-core/views/popup-success.php:31
+msgid "View your website"
+msgstr ""

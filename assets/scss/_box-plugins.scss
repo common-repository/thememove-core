@@ -1,0 +1,42 @@
+.tmc-plugin {
+
+	&--activated {
+
+		.tmc-plugin__name {
+			color: #6fbcae;
+		}
+	}
+
+	&--deactivated {
+
+		.tmc-plugin__name {
+			color: #dc433f;
+		}
+	}
+
+	td.tmc-plugin__name {
+
+		i,
+		.svg-inline--fa {
+			margin-right: 10px;
+			width: 20px;
+		}
+	}
+
+	td.tmc-plugin__action {
+
+		i,
+		.svg-inline--fa {
+			margin-right: 5px;
+		}
+
+		a:focus {
+			box-shadow: none;
+		}
+	}
+
+	&__action {
+		text-align: right !important;
+		width: 20%;
+	}
+}

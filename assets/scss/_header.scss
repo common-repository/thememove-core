@@ -1,0 +1,30 @@
+.tmc-header {
+	margin-bottom: 20px;
+
+	&__thumbnail,
+	&__text {
+		display: inline-block;
+		vertical-align: top;
+	}
+
+	&__thumbnail {
+		margin-right: 20px;
+	}
+
+	&__description {
+		margin: 0;
+	}
+
+	&__title {
+		font-size: 23px;
+		font-weight: 400;
+		line-height: 1.3;
+		margin: 0;
+		padding: 0 0 4px 0;
+
+		span {
+			color: #aaa;
+			font-size: 16px;
+		}
+	}
+}

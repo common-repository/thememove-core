@@ -1,0 +1,15 @@
+.tmc-wrap {
+	margin-top: 20px;
+
+	a {
+		text-decoration: none;
+	}
+
+	a:hover {
+		text-decoration: underline;
+	}
+}
+
+.tm-spin {
+	animation: fa-spin .7s infinite linear;
+}

@@ -1,0 +1,13 @@
+.tmc-loading {
+	position: relative;
+
+	& &__icon {
+		color: #999;
+		display: block !important;
+		font-size: 36px;
+		left: 50%;
+		position: absolute;
+		top: 50%;
+		transform: translate(-50%, -50%);
+	}
+}

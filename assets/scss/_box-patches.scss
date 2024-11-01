@@ -1,0 +1,59 @@
+.tmc-box--patches {
+
+	.tmc-patch-key {
+		display: block;
+		font-size: 14px;
+	}
+
+	.tmc-patch-date {
+		color: #777;
+		font-size: 10px;
+	}
+
+	.tmc-warning-text {
+		margin-bottom: 10px;
+	}
+
+	th {
+		font-weight: 600;
+		text-transform: uppercase;
+	}
+
+	th.tmc-patch-status,
+	td.tmc-patch-status {
+		text-align: center;
+		width: 10%;
+
+		i,
+		.svg-inline--fa {
+			color: #74a336;
+			font-size: 18px;
+		}
+	}
+
+	td {
+		vertical-align: middle;
+
+		&.tmc-patch-action {
+			text-align: right;
+			width: 20%;
+		}
+	}
+
+	a.tmc-reapply {
+		display: block;
+
+		i,
+		.svg-inline--fa {
+			margin-right: 3px;
+		}
+
+		&:focus {
+			box-shadow: none;
+		}
+
+		&[disabled] {
+			color: #aaa;
+		}
+	}
+}

@@ -1,0 +1,31 @@
+.tmc-table {
+	border: none !important;
+	box-shadow: none !important;
+
+	td.error {
+		color: #dc433f;
+	}
+
+	& &__license-key {
+		background-color: transparent;
+		border: none !important;
+		box-shadow: none;
+		font-family: monospace;
+		height: auto !important;
+		line-height: 1 !important;
+		padding: 0 !important;
+		width: 280px;
+	}
+
+	& &__open-key {
+		box-shadow: none;
+	}
+
+	&__deactivate-link svg {
+		background-color: #fff;
+		left: 0;
+		position: absolute;
+		top: 0;
+		width: 100%;
+	}
+}

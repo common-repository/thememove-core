@@ -1,0 +1,21 @@
+.tmc-box--changelog {
+
+	.tmc-box__changelog {
+		max-height: 300px;
+		overflow: auto;
+	}
+
+	p {
+		margin: 0;
+	}
+
+	p + ul {
+		border-bottom: 1px solid #ddd;
+		padding-bottom: 1em;
+	}
+
+	ul:last-of-type {
+		border-bottom: none;
+		padding-bottom: 0;
+	}
+}

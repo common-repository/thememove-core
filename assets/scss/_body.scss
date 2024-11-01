@@ -1,0 +1,60 @@
+.tmc-body {
+	max-width: 960px;
+
+	input[type='text'] {
+		border: 1px solid #cbcbcb;
+		line-height: 25px;
+		transition: all .5s ease;
+	}
+
+	.button,
+	input[type='submit'] {
+		background-color: #5b94d9;
+		border: none;
+		border-radius: 3px;
+		color: #fff;
+		display: inline-block;
+		font-weight: 700;
+		height: 42px;
+		line-height: 42px;
+		padding: 0 20px;
+		position: relative;
+		transition: all .5s ease;
+		vertical-align: top;
+
+		&:hover,
+		&:focus {
+			background-color: #74a336;
+			color: #fff;
+			text-decoration: none;
+		}
+
+		&:focus {
+			box-shadow: 0 0 3px rgba(116, 163, 54, .8);
+		}
+
+		&.error {
+			background-color: #dc433f;
+
+			&:focus {
+				box-shadow: 0 0 3px rgba(220, 67, 63, .8);
+			}
+		}
+
+		i,
+		.svg-inline--fa {
+			margin-left: 5px;
+		}
+
+		&[disabled] {
+			background-color: #b2d5ff !important;
+			color: #fff !important;
+			text-shadow: none !important;
+		}
+	}
+
+	pre {
+		background-color: #f5f5f5;
+		padding: 5px;
+	}
+}

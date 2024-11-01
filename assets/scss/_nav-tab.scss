@@ -1,0 +1,25 @@
+.tmc-nav-tab-wrapper {
+	border-bottom: none;
+
+	.nav-tab:first-child {
+		margin-left: 0;
+	}
+
+	.nav-tab-active {
+		background-color: #f8f8f8;
+		border: 1px solid #dcdcdc;
+		border-bottom: none;
+		position: relative;
+
+		&::after {
+			background-color: #f8f8f8;
+			bottom: -1px;
+			content: '';
+			height: 2px;
+			left: 0;
+			position: absolute;
+			width: 100%;
+			z-index: 1;
+		}
+	}
+}

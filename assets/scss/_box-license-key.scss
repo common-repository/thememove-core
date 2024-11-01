@@ -1,0 +1,42 @@
+.tmc-box--license {
+	position: relative;
+
+	svg:not(.svg-inline--fa) {
+		background-color: #fff;
+		height: 100%;
+		left: 0;
+		position: absolute;
+		top: 0;
+		width: 100%;
+	}
+
+	.tmc-open-key:focus,
+	.tmc-deactivate-link:focus {
+		box-shadow: none;
+	}
+}
+
+.tmc-license-key-form {
+
+	&__icon {
+		color: #dcdcdc;
+		font-size: 44px;
+		margin-right: 10px;
+	}
+
+	&__input {
+		border-radius: 3px;
+		display: inline-block;
+		height: 42px;
+		line-height: 42px;
+		margin-right: 10px;
+		min-width: 350px !important;
+		padding: 0 20px;
+		vertical-align: top;
+	}
+
+	&__submit i,
+	&__submit .svg-inline--fa {
+		display: none;
+	}
+}
